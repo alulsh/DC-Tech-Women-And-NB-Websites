@@ -2,7 +2,8 @@ $(document).ready(function() {
     
     $('#dataTable').DataTable( {
         "ajax": 'websites.json',
-        "lengthMenu": [25, 50, 75, 100],
+        "order": [[0, "asc"]],
+        "lengthMenu": [10, 25, 50, 75, 100],
         "columnDefs": [
                 {
                     "render": function (data, type, row) {
@@ -11,7 +12,6 @@ $(document).ready(function() {
                         
                         return link;
                         
-                        //return data + "!";
                     },
                     "targets": 1
                 }
