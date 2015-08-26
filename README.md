@@ -4,9 +4,7 @@ Personal and portfolio websites of women and non-binary people in the DC Tech co
 [http://www.alexandraulsh.com/DC-Tech-Women-Websites](http://www.alexandraulsh.com/DC-Tech-Women-Websites/)
 
 ## About
-This is a collection of personal and portfolio websites of women and non-binary people in the Washington, D.C. technology community. It not only serves as a resource and inspiration for people creating their own personal or portfolio websites, but also showcases the collective accomplishments of women and non-binary people in the Washington, D.C. technology community.
-            
-Many of the people listed are members of [DCFemTech's organizations](http://dcfemtech.github.io/organizations.html) or attend [DCFemTech](http://dcfemtech.github.io/) events.
+This is a collection of personal and portfolio websites of women and non-binary people in the Washington, D.C. technology community. It not only serves as a resource and inspiration for people creating their own personal or portfolio websites, but also showcases the collective accomplishments of women (cis and trans) and non-binary people in the Washington, D.C. technology community.
 
 ## I want to submit my website
 You can submit your personal or portfolio website to the list in two ways:
