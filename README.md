@@ -1,7 +1,7 @@
 # DC Tech Women and Non-Binary Websites
 Personal and portfolio websites of women and non-binary people in the DC Tech community.
 
-[http://www.alexandraulsh.com/DC-Tech-Women-Websites](http://www.alexandraulsh.com/DC-Tech-Women-Websites/)
+[http://www.alexandraulsh.com/DC-Tech-Women-And-NB-Websites/](http://www.alexandraulsh.com/DC-Tech-Women-And-NB-Websites/)
 
 ## About
 This is a collection of personal and portfolio websites of women and non-binary people in the Washington, D.C. technology community. It not only serves as a resource and inspiration for people creating their own personal or portfolio websites, but also showcases the collective accomplishments of women (cis and trans) and non-binary people in the Washington, D.C. technology community.
