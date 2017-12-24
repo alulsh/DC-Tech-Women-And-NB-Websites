@@ -1,0 +1,20 @@
+{
+  "name": "dc-tech-women-and-nb-websites",
+  "version": "1.0.0",
+  "description": "Personal and portfolio websites of women and non-binary people in the DC Tech community.",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alulsh/DC-Tech-Women-And-NB-Websites.git"
+  },
+  "author": "Alexandra Ulsh",
+  "bugs": {
+    "url": "https://github.com/alulsh/DC-Tech-Women-And-NB-Websites/issues"
+  },
+  "homepage": "https://www.alexandraulsh.com/DC-Tech-Women-And-NB-Websites/",
+  "devDependencies": {
+    "serve": "^6.4.3"
+  }
+}
