@@ -1,7 +1,4 @@
 {
-  "name": "dc-tech-women-and-nb-websites",
-  "version": "1.0.0",
-  "description": "Personal and portfolio websites of women and non-binary people in the DC Tech community.",
   "scripts": {
     "start": "serve"
   },
