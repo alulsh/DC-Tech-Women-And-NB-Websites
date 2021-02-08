@@ -15,6 +15,6 @@
   },
   "homepage": "https://www.alexandraulsh.com/DC-Tech-Women-And-NB-Websites/",
   "devDependencies": {
-    "serve": "^11.2.0"
+    "serve": "^11.3.2"
   }
 }
