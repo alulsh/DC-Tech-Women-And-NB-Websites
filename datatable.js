@@ -6,7 +6,7 @@ $(document).ready(function () {
     columnDefs: [
       {
         render: function (data, type, row) {
-          var link = convertToLink(data);
+          const link = convertToLink(data);
           return link;
         },
         targets: 1,
@@ -16,6 +16,6 @@ $(document).ready(function () {
 });
 
 function convertToLink(link) {
-  var html = '<a href="' + link + '">' + link + "</a>";
+  const html = '<a href="' + link + '">' + link + "</a>";
   return html;
 }
